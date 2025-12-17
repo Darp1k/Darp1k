@@ -29,7 +29,7 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Analysis](Link)** | Analysis and predictions of student grades based on few datasets| `Java` `JavaFX` |
+| **[Analysis](https://github.com/Darp1k/Grade-Predictions)** | Analysis and predictions of student grades based on few datasets| `Java` `JavaFX` |
 
 
 ---
